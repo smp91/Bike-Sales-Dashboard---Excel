@@ -12,8 +12,8 @@ Exploratory Data Analysis of Bike Sales using Excel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/smp91/Bike-Sales-Dashboard---Excel/blob/master/Screenshots/Screenshot%202023-03-20%20141032.jpg)
+![App Screenshot](https://github.com/smp91/Bike-Sales-Dashboard---Excel/blob/master/Screenshots/Screenshot%202023-03-20%20141114.jpg)
 
 
 ## Acknowledgements
