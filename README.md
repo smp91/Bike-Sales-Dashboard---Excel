@@ -3,11 +3,11 @@
 
 Exploratory Data Analysis of Bike Sales using Excel. 
 
-- Cleaned and transformed data using Excel functions and formulas.
+- Cleaned and transformed raw data using Excel functions such as TRIM, SUBSTITUTE, and CONCATENATE to remove errors, duplicates, and inconsistencies.
 
-- Summarized data using pivote tables and charts.
+- Summarized data by creating Pivot Tables with formulas like SUM, AVERAGE, COUNTIF, and VLOOKUP to analyze trends, patterns, and relationships.
 
-- Created an interactive dashboard to present findings and inisghts.
+- Created an interactive dashboard by combining multiple charts, slicers, and conditional formatting to showcase key insights and metrics in a user-friendly interface.
 
 
 ## Screenshots
